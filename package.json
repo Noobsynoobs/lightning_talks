@@ -1,0 +1,23 @@
+{
+  "name": "lightning_talks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noobsynoobs/lightning_talks.git"
+  },
+  "author": "Ghassan Alqazzaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noobsynoobs/lightning_talks/issues"
+  },
+  "homepage": "https://github.com/Noobsynoobs/lightning_talks#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.8.0"
+  }
+}
